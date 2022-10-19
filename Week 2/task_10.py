@@ -1,0 +1,1 @@
+print("This text includes characters such as '\\' '\"' and \" \' \" ,\n\tThis is the new line that starts with a tab \n\t\t This new line starts with two tabs")
